@@ -4,6 +4,8 @@ import image_functions
 import voice_functions 
 import cv2
 
+#my first git commit
+
 # Environment Variables
 BACKGROUND = "#192329"
 BUTTON_FONT = ("Calibri", 12, "normal")
