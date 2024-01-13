@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By
 
 
 data = {
-    "uniqueId": [],
     "name": [],
     "password": [],
     "linkedin_username": [],
